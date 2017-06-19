@@ -1,6 +1,6 @@
 # Note Taking
 
-A very basic app to show the possibilities through a workshop
+A very basic app to show the possibilities of web development through a workshop
 
 # How to install `dist/NoteTaking.apk`
 
@@ -9,7 +9,7 @@ A very basic app to show the possibilities through a workshop
   - Tap "Build number" 7 times 
   - In settings go to "Developer options"    
   - Uncheck "Verify apps"
-- Copy `.apk` file to phone
+- Copy `NoteTaking.apk` file to phone
 - Find it in your file explorer
 - Install
 - ???
